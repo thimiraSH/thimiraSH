@@ -42,9 +42,6 @@
 ---
 
 ## 🎬 Video Editing Portfolio
-👉 **Watch my edits**  
-🔗 https://thimirapathirana.pages.dev
-
 🎥 Types of Videos I Create:
 - Cinematic edits 🎞️  
 - Short-form TikTok/Reels content  
@@ -102,5 +99,4 @@ Tools for creators:
 
 ---
 
-## ⭐ Support  
-If you like my work, consider giving a ⭐ to my repositories.  
+🔗 https://thimirapathirana.pages.dev
